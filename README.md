@@ -1,4 +1,4 @@
-## Hi there I'm Kauã👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3363F7&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kauã!!" alt="Typing SVG" /></a>
 
 - 🔭 Hoje eu trabalho com front-end
 - 💭 Pensando em virar full-stack
