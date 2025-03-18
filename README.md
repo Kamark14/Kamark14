@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3363F7&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kauã!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=811632&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kauã!!" alt="Typing SVG" /></a>
 
 ## **Sobre mim:**
 
@@ -31,4 +31,9 @@
  <a href="https://discord.gg/vUq6FbzY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kau%C3%A3-marques-5b2632355" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5511920191378"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamark14&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamark14&layout=compact&theme=dark"/>
 </div>
