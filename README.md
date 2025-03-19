@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Amo literatura
 
 <div style="display: inline_block"><br>
-  <h3>Meus conhecimento em programção:</h3>
+  <h3>Meus conhecimento em programação:</h3>
   
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
