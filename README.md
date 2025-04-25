@@ -37,3 +37,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamark14&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamark14&layout=compact&theme=dark"/>
 </div>
+
+<!-- Loading huh
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
+<br><br>-->
+
+<!-- Perfect Loop-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="810">
+<br><br>
