@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=811632&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kauã!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=811632&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kaua!!" alt="Typing SVG" /></a>
 
 ## **Sobre mim:**
 
