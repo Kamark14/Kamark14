@@ -2,28 +2,28 @@
 
 ## **Sobre mim:**
 
+- Sou Técnico de Desenvolvimento de Sistemas
 - 🔭 Hoje eu trabalho com front-end
 - 💭 Pensando em virar full-stack
-- 📖 Estudando PHP e Java
+- 📖 Estudante de Programação
 - 📫 Contate-me pelo email: kauamarques1011@hotmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Amo literatura
+
 
 <div style="display: inline_block"><br>
   <h3>Meus conhecimentos em programação:</h3>
-  
+
+   <h4>Frontend:</h4>
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Kaua-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Kaua-RctN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
+  <h4>Backend:</h4>
   <img align="center" alt="Kaua-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Kaua-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Kaua-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Kaua-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Kaua-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Kaua-Mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Kaua-Mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Kaua-NodeJs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Kaua-Expressjs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
           
   
 </div>
@@ -42,10 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamark14&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamark14&layout=compact&theme=dark"/>
 </div>
-
-<!-- Loading huh
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
-<br><br>-->
 
 <!-- Perfect Loop-->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="810">
