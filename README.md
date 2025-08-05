@@ -8,7 +8,6 @@
 - 📖 Estudante de Programação
 - 📫 Contate-me pelo email: kauamarques1011@hotmail.com
 
-
 <div style="display: inline_block"><br>
   <h3>Meus conhecimentos em programação:</h3>
 
