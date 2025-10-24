@@ -1,11 +1,9 @@
 <!-- Título animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=600&color=811632&center=true&vCenter=true&width=500&lines=Seja+bem-vindo!+👋;Eu+me+chamo+Kauã+Marques!;Desenvolvedor+Front-End+🚀;Apaixonado+por+tecnologia+e+inovação.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=600&color=811632&center=true&vCenter=true&width=500&lines=Seja+bem-vindo!+👋;Eu+me+chamo+Kaua+Marques!;Desenvolvedor+Front-End+🚀;Apaixonado+por+tecnologia+e+inovação.">
   </a>
 </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=811632&width=510&height=90&lines=Seja+bem-vindo%2C+Eu+me+chamo+Kaua!!" alt="Typing SVG" /></a>
 
 ---
 
