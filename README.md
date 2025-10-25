@@ -52,8 +52,9 @@
 </p>
 
 ---
-
+<center>
 ## 🌐 **Conecte-se comigo**
+</center>
 
 <p align="center">
   <a href="https://www.youtube.com/@kamark14" target="_blank">
