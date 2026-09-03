@@ -9,9 +9,9 @@
 
 ## 👨‍💻 **Sobre mim**
 
-- 💻 Técnico em **Desenvolvimento de Sistemas**  
-- 🎯 Atualmente focado em **Front-End**  
-- 🌱 Estudando para me tornar **Full-Stack Developer**  
+- 💻 Técnico em **Desenvolvimento de Sistemas**
+- 🎯 Atualmente focado em **Full-Stack**  
+- 🌱 Estudando **Ciência da Computação**
 - 📚 Sempre aprendendo novas tecnologias  
 - 📫 Contato: **kauamarques1011@hotmail.com**
 
